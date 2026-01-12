@@ -1,0 +1,12 @@
+{"data":
+{"user":
+{"name":"Kamlesh Panwar","bio":"","isHireable":true,
+"avatarUrl":"https://avatars.githubusercontent.com/u/66407251?u=9157fbc1ee2bf8c23907fc74f52baa9de09614ff&v=4",
+"location":"ON, Canada",
+"pinnedItems":
+{"totalCount":6,
+"edges":
+[{"node":
+{"name":"GecoKoin","description":"A cryptocurrency price tracker & monitor app. Show the current value of different digital currencies and tokens in five national currencies.",
+"forkCount":0,"stargazers":{"totalCount":1},"url":"","id":"R_kgDOGuogIQ","diskUsage":3233,"primaryLanguage":{"name":"JavaScript","color":"#f1e05a"}}},
+{"node":{"name":"competitive-programming-coding-ninjas","description":"Solutions to all the questions that I solved during the Competitive programming course with Coding Ninjas. Star the repo if you like it.","forkCount":0,"stargazers":{"totalCount":1},"url":"","id":"R_kgDOGancPQ","diskUsage":170,"primaryLanguage":{"name":"C++","color":"#f34b7d"}}},{"node":{"name":"node-sequelize-setup","description":"A robust and clean boilerplate/starter project with proper error handling for quickly building RESTful APIs using Node.js, Express, and Sequelize ORM.","forkCount":0,"stargazers":{"totalCount":2},"url":"","id":"R_kgDOLAPUug","diskUsage":117,"primaryLanguage":{"name":"JavaScript","color":"#f1e05a"}}},{"node":{"name":"WordBook","description":"Word Book to find Meanigs, examples and synonyms of words","forkCount":0,"stargazers":{"totalCount":0},"url":"","id":"R_kgDOGueqrg","diskUsage":482,"primaryLanguage":{"name":"JavaScript","color":"#f1e05a"}}},{"node":{"name":"Github-Buddy","description":null,"forkCount":0,"stargazers":{"totalCount":0},"url":"","id":"R_kgDOIgKLaA","diskUsage":360,"primaryLanguage":{"name":"JavaScript","color":"#f1e05a"}}},{"node":{"name":"File-Sharing","description":null,"forkCount":0,"stargazers":{"totalCount":0},"url":"","id":"R_kgDOIXaDQg","diskUsage":6,"primaryLanguage":{"name":"JavaScript","color":"#f1e05a"}}}]}}}}

@@ -1,0 +1,56 @@
+.dev-icons {
+  padding-left: 0;
+  list-style: none;
+  font-size: 3rem;
+  text-align: center;
+  margin: 12px 0 12px 22px;
+}
+
+.software-skill-inline {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.software-skill-inline > i {
+  color: #868e96;
+}
+.software-skill-inline>p {
+  color: #868e96;
+  font-size: 10px;
+}
+
+#html-5 > i {
+  color: #DD4B25;
+}
+#css3>i{
+  color: #1F5FAA;
+}
+#js>i {
+  color: #E8D44D;
+}
+#reactjs>i {
+  color: #5ED3F3;
+}
+#angularjs>i {
+  color: #cf1218;
+}
+#sql>i {
+  color: #00758F;
+}
+#csharp>i {
+  font-weight: bold;
+}
+#git>i {
+  color: #c519d5;
+}
+
+.software-skill-inline > i ~ .darkp {
+  color: #ffffff;
+}
+.software-skill-inline > i ~ .lightp {
+  color: #000000;
+  font-weight: bold;
+}
+
+
