@@ -185,7 +185,7 @@ const blogSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "+91 9589859769",
+    "",
   email_address: "kppanwarkamlesh02@gmail.com",
 };
 

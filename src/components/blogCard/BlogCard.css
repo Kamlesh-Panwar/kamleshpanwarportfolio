@@ -33,13 +33,11 @@
   border-radius: 10px;
 }
 
-/* Firefox */
 .blog-scroll-area {
   scrollbar-width: thin;
   scrollbar-color: #7f3ff2 transparent;
 }
 
-/* Chrome, Edge, Safari */
 .blog-container::-webkit-scrollbar {
   width: 6px;
 }
@@ -54,7 +52,7 @@
 }
 
 .blog-title {
-  color: #262626;
+  color: #0e0e0e;
   font-size: 22px;
   line-height: 24px;
   font-weight: 700;
@@ -72,7 +70,7 @@
   font-size: 17px;
   font-weight: 400;
   line-height: 1.5rem;
-  color: #292828;
+  color: #161515;
   padding: 0px 20px;
   margin: 0px;
 }
@@ -138,7 +136,7 @@
 
 .blog-card:hover>h3 {
   transition: all 0.3s ease-out;
-  color: #ffffff;
+  color: #0c0c0c;
 }
 
 @media screen and (max-width: 480px) and (min-width: 300px),
