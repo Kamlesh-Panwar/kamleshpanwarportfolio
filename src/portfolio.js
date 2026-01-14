@@ -19,8 +19,8 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/KamleshPanwar",
-  linkedin: "srfs",
+  github: "https://github.com/Kamlesh-Panwar",
+  linkedin: "https://www.linkedin.com/in/kamlesh-panwar1988",
   gmail: "kppanwarkamlesh02@gmail.com",
 };
 
@@ -185,7 +185,7 @@ const blogSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "+91 9589859769",
+    "",
   email_address: "kppanwarkamlesh02@gmail.com",
 };
 

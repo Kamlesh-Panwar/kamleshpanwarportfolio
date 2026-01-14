@@ -38,9 +38,7 @@
 #sql>i {
   color: #00758F;
 }
-#csharp>i {
-  font-weight: bold;
-}
+
 #git>i {
   color: #c519d5;
 }
@@ -49,8 +47,6 @@
   color: #ffffff;
 }
 .software-skill-inline > i ~ .lightp {
-  color: #000000;
-  font-weight: bold;
+  color: #090909;
 }
-
 

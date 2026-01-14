@@ -8,17 +8,22 @@ const DisplayLottie = (props) => {
     const defaultOptions = {
       loop: true,
       autoplay: true,
-      animationData: animationData
+      animationData: animationData,
+      isClickToPause: false
     };
 
     return (
       <div>
         <Suspense fallback={<Loading />}>
-          {/* To override default onClick pause by Lottie */}
-          <div onClick="null">
-            <Lottie options={defaultOptions} />
-          </div>
-        </Suspense>
+        {/* Click disable */}
+        <div style={{ pointerEvents: "none" }}>
+          <Lottie
+            options={defaultOptions}
+            isStopped={false}
+            isPaused={false}
+          />
+        </div>
+      </Suspense>
       </div>
     );
   }
